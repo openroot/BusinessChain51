@@ -1,0 +1,65 @@
+----------------------------------------------------------
+----------------------------------------------------------
+
+*	BusinessChain51: Prime Organisations
+..	DebPhotoStore50: Generic Craftsmanship
+::.	ResearchCentreDevelopment94: Firm Library
+
+----------------------------------------------------------
+
+*	BusinessChain51: Prime Organisations
+..	DataArchitecture53: Compound Directory
+::.	ProductionFactory70: Abstract System
+
+*	DebPhotoStore50: Generic Craftsmanship
+..	DivineGuestHouse60: Holistic Residency
+::.	NaturePulseAyurveda77: Daily Supplement
+
+*	ResearchCentreDevelopment94: Firm Library
+..	EntityWorkflowManagement106: Port Channel
+::.	RenderMainstreamOperation97: Log Database
+
+----------------------------------------------------------
+
+*	BusinessChain51: Prime Organisations
+..	VirtualMarket50: Parallel Divisions
+::.	PhysicalStore56: Common Subsidiary
+
+*	DataArchitecture53: Compound Directory
+..	ApplicationGroup67: Community Sets
+::.	DynamicReference61: Hierarchical Trees
+
+*	ProductionFactory70: Abstract System
+..	AttributeCategory59: Union Framework
+::.	PropertyStructure70: Basic Networks
+
+-----------------------------
+
+*	DebPhotoStore50: Generic Craftsmanship
+..	ArtAndCraft39: Periodical Spreadsheet
+::.	RetailAndWholesale78: Compact Feature
+
+*	DivineGuestHouse60: Holistic Residency
+..	OnDemandTourism62: Unique Reception
+::.	QuickStayAccommodation88: Profile Visit
+
+*	NaturePulseAyurveda77: Daily Supplement
+..	FreshOrganicProduct75: Dietary Courses
+::.	ComplexHerbalMedicine80: Food Stamp
+
+-----------------------------
+
+*	ResearchCentreDevelopment94: Firm Library
+..	AccountStackSerialisation98: Asset Record
+::.	IndexQueueDeserialisation93: Dataset File
+
+*	EntityWorkflowManagement106: Port Channel
+..	CommonFunctionalInstance102: Row Identity
+::.	UniversalModularPipeline103: Column Names
+
+*	RenderMainstreamOperation97: Log Database
+..	AsynchronousMemoryMatrix102: Storage Unit
+::.	MultiplatformAssemblySet107: Array Values
+
+----------------------------------------------------------
+----------------------------------------------------------
